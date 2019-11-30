@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1575113742 source:c:\users\temp\desktop\matematyka\matematyka.cpp
+	<iostream>
+
+1575113711 source:c:\users\temp\desktop\matematyka\main.cpp
+	<iostream>
+	"matematyka.h"
+
+1575113975 c:\users\temp\desktop\matematyka\matematyka.h
+
